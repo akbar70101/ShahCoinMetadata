@@ -1,8 +1,17 @@
 {
   "name": "ShahCoin",
   "symbol": "SHAH",
-  "uri": "https://raw.github.com/akbar70101/ShahCoinMetadata/blob/main/shc.json",
-  "image": "https://ivory-brilliant-silverfish-19.mypinata.cloud/ipfs/QmQMsYhqiFSvJKRGh5TPDevL6teLLMWsASfbE5LnkcBXZP", 
+  "description": "Shah Coin - A Digital Asset",
+  "image": "https://ivory-brilliant-silverfish-19.mypinata.cloud/ipfs/QmQMsYhqiFSvJKRGh5TPDevL6teLLMWsASfbE5LnkcBXZP",
   "seller_fee_basis_points": 500,
-  "creators": null
+  "collection": null,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ivory-brilliant-silverfish-19.mypinata.cloud/ipfs/QmQMsYhqiFSvJKRGh5TPDevL6teLLMWsASfbE5LnkcBXZP",
+        "type": "image/png"
+      }
+    ]
+  }
 }
