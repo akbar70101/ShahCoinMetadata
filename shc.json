@@ -1,11 +1,10 @@
-const metaData = {
-  updateAuthority,
-  mint,
-  name: "ShahCoin",
-  symbol: "SHAH",
-  uri: "https://raw.github.com/akbar70101/ShahCoinMetadata/blob/main/shc.json",
-  additionalMetadata: [
-    ["seller_fee_basis_points", "500"],
-    ["image", "https://ivory-brilliant-silverfish-19.mypinata.cloud/ipfs/QmQMsYhqiFSvJKRGh5TPDevL6teLLMWsASfbE5LnkcBXZP"]
-  ],
-};
+{
+  "name": "ShahCoin",
+  "symbol": "SHAH",
+  "uri": "https://raw.github.com/akbar70101/ShahCoinMetadata/blob/main/shc.json",
+  "image": "https://ivory-brilliant-silverfish-19.mypinata.cloud/ipfs/QmQMsYhqiFSvJKRGh5TPDevL6teLLMWsASfbE5LnkcBXZP", 
+  "seller_fee_basis_points": 500,
+  "creators": null
+  "collection": null,
+  "uses": null
+}
