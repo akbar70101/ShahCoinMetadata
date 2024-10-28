@@ -1,0 +1,10 @@
+{
+  "name": "devShah",
+  "symbol": "devSH",
+  "uri": "https://raw.githubusercontent.com/akbar70101/ShahCoinMetadata/main/dev-shc.json",
+  "image": "https://ivory-brilliant-silverfish-19.mypinata.cloud/ipfs/QmeiD5VjD43oidJKEQnC6tC8myjrBgeWDjrePYzSTUwZWf", 
+  "seller_fee_basis_points": 500,
+  "creators": null
+  "collection": null,
+  "uses": null
+}
