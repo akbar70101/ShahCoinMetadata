@@ -1,8 +1,8 @@
 {
   "name": "ShahCoin",
   "symbol": "SHAH",
-  "uri": "https://raw.githubusercontent.com/akbar70101/ShahCoinMetadata/main/shc.json",
-  "image": "https://ivory-brilliant-silverfish-19.mypinata.cloud/ipfs/QmXwVqBDEpqTLPLCX8tws7kQWZHJMT7DEFFPtqPGq33osG", 
+  "uri": "https://ivory-brilliant-silverfish-19.mypinata.cloud/ipfs/Qma5k1SzBsiqGYb9Mnwjd6jVnZZ2mQLWVj9oyjMsgrkRfy",
+  "image": "", 
   "seller_fee_basis_points": 150,
   "creators": [
     {
